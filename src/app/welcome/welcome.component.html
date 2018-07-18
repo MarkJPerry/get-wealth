@@ -1,0 +1,9 @@
+<div class="row">
+    <div class="col-12">
+        <h2 *ngIf="user$ | async as user">Hi {{user.name}}</h2>
+        <p>Welcome to the GetWealth management application. Please use the navigation above to view your portfolios.</p>
+        <p>
+            <a class="btn btn-primary" [routerLink]="['/portfolios']" role="button">View Portfolios</a>
+        </p>
+    </div>
+</div>

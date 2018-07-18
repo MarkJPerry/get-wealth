@@ -1,0 +1,227 @@
+{
+  "portfolios": [
+    {
+      "id": "e629ea7c-20fc-40e7-80f9-d6c50382db7b",
+      "name": "Retirement Fund",
+      "riskLevel": 3,
+      "currency": "GBP",
+      "currentMarketValue": 150000
+    },
+    {
+      "id": "e27cda8b-cab3-4989-a43e-e1dbb7478be0",
+      "name": "Rainy Day Fund",
+      "riskLevel": 4,
+      "currency": "USD",
+      "currentMarketValue": 50000
+    },
+    {
+      "id": "a21d91d3-6f63-470d-aad9-5744174b097d",
+      "name": "Jeremy's ISA",
+      "riskLevel": 3,
+      "currency": "GBP",
+      "currentMarketValue": 10000
+    },
+    {
+      "id": "675a0572-bae8-437b-94c8-21704abd23c3",
+      "name": "High Risk Fund",
+      "riskLevel": 7,
+      "currency": "GBP",
+      "currentMarketValue": 20000
+    }
+  ],
+  "user": {
+    "id": "200fda4d-69d1-40ce-9122-427d0653a7fc",
+    "name": "Jeremy Houndsworth",
+    "email": "jeremy@houndsworth.name",
+    "dob": "1990-10-08"
+  },
+  "positions": [
+    {
+      "portfolioId": "e629ea7c-20fc-40e7-80f9-d6c50382db7b",
+      "assetId": "CASH",
+      "assetName": "Cash",
+      "quantity": 10000,
+      "price": 1,
+      "currency": "GBP",
+      "dailyGain": -0.0002
+    },
+    {
+      "portfolioId": "e629ea7c-20fc-40e7-80f9-d6c50382db7b",
+      "assetId": "GOOG",
+      "assetName": "Alphabet Inc.",
+      "quantity": 1000,
+      "price": 1056.86,
+      "currency": "GBP",
+      "dailyGain": 0.0256
+    },
+    {
+      "portfolioId": "e629ea7c-20fc-40e7-80f9-d6c50382db7b",
+      "assetId": "RBS",
+      "assetName": "Royal Bank of Scotland Group plc",
+      "quantity": 500,
+      "price": 268.7,
+      "currency": "GBP",
+      "dailyGain": 0.0113
+    },
+    {
+      "portfolioId": "e629ea7c-20fc-40e7-80f9-d6c50382db7b",
+      "assetId": "TSCO",
+      "assetName": "Tesco PLC",
+      "quantity": 250,
+      "price": 195.0,
+      "currency": "GBP",
+      "dailyGain": 0.0215
+    },
+    {
+      "portfolioId": "e27cda8b-cab3-4989-a43e-e1dbb7478be0",
+
+      "assetId": "CASH",
+      "assetName": "Cash",
+      "quantity": 10000,
+      "price": 1,
+      "currency": "GBP",
+      "dailyGain": -0.0002
+    },
+    {
+      "portfolioId": "e27cda8b-cab3-4989-a43e-e1dbb7478be0",
+
+      "assetId": "TW",
+      "assetName": "Taylor Wimpey plc",
+      "quantity": 50,
+      "price": 193.53,
+      "currency": "GBP",
+      "dailyGain": 0.0073
+    },
+    {
+      "portfolioId": "e27cda8b-cab3-4989-a43e-e1dbb7478be0",
+
+      "assetId": "BARC",
+      "assetName": "Barclays PLC",
+      "quantity": 100,
+      "price": 186.45,
+      "currency": "GBP",
+      "dailyGain": -0.0053
+    },
+    {
+      "portfolioId": "e27cda8b-cab3-4989-a43e-e1dbb7478be0",
+
+      "assetId": "RBS",
+      "assetName": "Royal Bank of Scotland Group plc",
+      "quantity": 300,
+      "price": 268.7,
+      "currency": "GBP",
+      "dailyGain": 0.0113
+    },
+    {
+      "portfolioId": "e27cda8b-cab3-4989-a43e-e1dbb7478be0",
+
+      "assetId": "TSCO",
+      "assetName": "Tesco PLC",
+      "quantity": 250,
+      "price": 195.0,
+      "currency": "GBP",
+      "dailyGain": 0.0215
+    },
+    {
+      "portfolioId": "675a0572-bae8-437b-94c8-21704abd23c3",
+
+      "assetId": "CASH",
+      "assetName": "Cash",
+      "quantity": 10000,
+      "price": 1,
+      "currency": "GBP",
+      "dailyGain": -0.0002
+    },
+    {
+      "portfolioId": "675a0572-bae8-437b-94c8-21704abd23c3",
+
+      "assetId": "GOOG",
+      "assetName": "Alphabet Inc.",
+      "quantity": 1000,
+      "price": 1056.86,
+      "currency": "GBP",
+      "dailyGain": 0.0256
+    },
+    {
+      "portfolioId": "675a0572-bae8-437b-94c8-21704abd23c3",
+
+      "assetId": "BARC",
+      "assetName": "Barclays PLC",
+      "quantity": 100,
+      "price": 186.45,
+      "currency": "GBP",
+      "dailyGain": -0.0053
+    },
+    {
+      "portfolioId": "675a0572-bae8-437b-94c8-21704abd23c3",
+
+      "assetId": "RBS",
+      "assetName": "Royal Bank of Scotland Group plc",
+      "quantity": 500,
+      "price": 268.7,
+      "currency": "GBP",
+      "dailyGain": 0.0113
+    },
+    {
+      "portfolioId": "675a0572-bae8-437b-94c8-21704abd23c3",
+
+      "assetId": "TSCO",
+      "assetName": "Tesco PLC",
+      "quantity": 250,
+      "price": 195.0,
+      "currency": "GBP",
+      "dailyGain": 0.0215
+    },
+
+    {
+      "portfolioId": "a21d91d3-6f63-470d-aad9-5744174b097d",
+
+      "assetId": "CASH",
+      "assetName": "Cash",
+      "quantity": 10000,
+      "price": 1,
+      "currency": "GBP",
+      "dailyGain": -0.0002
+    },
+    {
+      "portfolioId": "a21d91d3-6f63-470d-aad9-5744174b097d",
+
+      "assetId": "GOOG",
+      "assetName": "Alphabet Inc.",
+      "quantity": 1000,
+      "price": 1056.86,
+      "currency": "GBP",
+      "dailyGain": 0.0256
+    },
+    {
+      "portfolioId": "a21d91d3-6f63-470d-aad9-5744174b097d",
+
+      "assetId": "VOD",
+      "assetName": "Vodafone Group plc",
+      "quantity": 350,
+      "price": 225.01,
+      "currency": "GBP",
+      "dailyGain": 0.0041
+    },
+    {
+      "portfolioId": "a21d91d3-6f63-470d-aad9-5744174b097d",
+
+      "assetId": "TW",
+      "assetName": "Taylor Wimpey plc",
+      "quantity": 100,
+      "price": 193.53,
+      "currency": "GBP",
+      "dailyGain": 0.0073
+    },
+    {
+      "portfolioId": "a21d91d3-6f63-470d-aad9-5744174b097d",
+
+      "assetId": "TSCO",
+      "assetName": "Tesco PLC",
+      "quantity": 250,
+      "price": 195.0,
+      "currency": "GBP",
+      "dailyGain": 0.0215
+    }
+  ]
+}
